@@ -17,4 +17,31 @@ The data is collected in 2023 for 8 months. The survey were divided intro 4 dist
   <img width="769" height="641" alt="image" src="https://github.com/user-attachments/assets/d62f8e26-0848-49fc-9115-b854bb705e52" />
 </p>
 
+<p align="center">
+  <img width="781" height="641" alt="image" src="https://github.com/user-attachments/assets/8936cfb8-45f0-4be9-b8ac-7909f10e441c" />
+</p>
+
+<p align="center">
+  <img width="924" height="641" alt="image" src="https://github.com/user-attachments/assets/d697d389-b277-4668-a1ac-9eef638cf740" />
+</p>
+
+<p align="center">
+  <img width="936" height="598" alt="image" src="https://github.com/user-attachments/assets/c49c633e-e91d-41de-8cd5-f1c730845ef6" />
+</p>
+
+<p align="center">
+  <img width="924" height="598" alt="image" src="https://github.com/user-attachments/assets/3ca66763-31b0-4fc0-b32b-4ad0f05c883d" />
+</p>
+
+<p align="center">
+  <img width="936" height="641" alt="image" src="https://github.com/user-attachments/assets/dd893701-4b9e-4bac-8706-63d004477736" />
+</p>
+
+<p align="center">
+  <img width="781" height="620" alt="image" src="https://github.com/user-attachments/assets/3ffb904d-5dc8-4b18-9b09-d0be9e9080b3" />
+</p>
+
+<p align="center">
+  <img width="781" height="638" alt="image" src="https://github.com/user-attachments/assets/40543aec-f8e2-42f2-ac8c-00271e150e01" />
+</p>
 
