@@ -13,8 +13,8 @@ This research is part of Philippine Railways Institute strategic objectives to s
 The data is collected in 2023 for 8 months. The survey were divided intro 4 distinct parts: 1) Employee Profile, which includes the demographics such as age-range, years of service, and position. 2) Perceived Talent Management, which includes HR strategies such as training, perks, and benefits. 3) Perceived Job Embeddedness, which includes non-monetary benefits felt by the employees such as connection, and community relationship. 4) Intention To Leave, which includes a 3 questions explicitly asking if employees will leave in a given situation. The questions for 2,3, and 4 were answerable by 5-point likert scale, with 5 being the highest (greatly agree), 1 the lowest (greatly disagree), and 3 as neutral. Appropriate data processing were applied, for employee profile, one-hot encoding were used to convert categorical data to numerical data. For 2,3, and 4, K-means clustering and majority-vote aggregation were applied to downscale them
 
 ## Exploratory Data Analysis
-<p align="center>
-<img width="769" height="641" alt="image" src="https://github.com/user-attachments/assets/d62f8e26-0848-49fc-9115-b854bb705e52" />
+<p align="center">
+  <img width="769" height="641" alt="image" src="https://github.com/user-attachments/assets/d62f8e26-0848-49fc-9115-b854bb705e52" />
 </p>
 
 
