@@ -1,1 +1,10 @@
-# Talent-Retention-in-the-Railway-Workforce
+# Predicting Railway Employee Turnover Intent using Propensity Modeling
+### Author: Engr. Patrick Jose C. Roxas
+
+Railway Transportation has been the backbone of economic development for many countries. In the Metro Manila Philippines, where traffic and car-centrism persist, railway has been the the sandbox of many commuters to navigate the metropolis. In recent years, various infrastructure reinforcement were alloted to the railway sector. These includes the construction of MRT7, Metro Manila Subway, the North-South Commuter Railway, the maintenance of MRT3 and extension projects of LRT-1 and LRT-2. However, the success of service delivery of railway is without a doubt because of the workforce behind it. The railway system, is one of the most complex environment to be operated. It is divided into three (3) sub-systems: Train operations, Stations operations, and Operations Control Center (OCC). Truly, this system requires a wide range of technical skills such as engineering, architecture, information technology, occupational safety, passenger management, and planning. However, the railway sector, unlike its counterparts such as maritime and aviation received less institutional support. One of these includes security of tenure, because majority of the railway employees particularly to those operated by the government are contractual. Because of this, the sector faces several challenges, and one of this is the Turnover Intent. 
+
+Turnover Intent is the likelihood of an employee resigning from its duties. Although it does not directly predict actual turnover, it does estimate the turnover, thus, making policy makers prepared for what's coming. It is widely used for Workforce analytics particularly for organizations with high turnover rate such as BPO. This study focuses in predicting railway employee turnover intent using supervised machine learning, which is propensity modeling. This modeling is widely used for credit default prediction, which helps identify key factors affecting default, but in the context of this study, the factors affecting turnover intent.
+
+This research is part of Philippine Railways Institute strategic objectives to support the workforce of the railway sector in the Philippines. The paper was submitted and accepted to LIEN Conference 2025 in Singapore.
+
+
